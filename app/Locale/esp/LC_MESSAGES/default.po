@@ -1,0 +1,256 @@
+#: Layout.default.ctp:65
+msgid "Recent Questions"
+msgstr "Preguntas Recientes"
+
+#: Layout.default.ctp:72
+msgid "Search question"
+msgstr "Buscar preguntas"
+
+#: Layout.default.ctp:99
+msgid "Add Pregunta"
+msgstr "Preguntar"
+
+#: Layout.default.ctp:103
+msgid "My Questions"
+msgstr "Mis Preguntas"
+
+#: Layout.default.ctp:107
+msgid "AccountSettings"
+msgstr "Preferencias"
+
+#: Layout.default.ctp:111
+msgid "Logout"
+msgstr "Cerrar Sesión"
+
+#: Model.User.php
+msgid "Please enter a valid role"
+msgstr "Rol incorrecto"
+
+#: Users.view.php
+msgid "Name"
+msgstr "Nombre"
+
+#: Users.view.php
+msgid "Email"
+msgstr "Correo Electrónico"
+
+#: Users.view.php
+msgid "Join date(YYYY-MM-DD)"
+msgstr "Fecha de registro(Y-M-D)"
+
+#: Users.view.php
+msgid "Number of rated answers"
+msgstr "Número de respuestas votadas"
+
+#: Users.view.php
+msgid "Number of questions"
+msgstr "Número de preguntas"
+
+#: Users.view.php
+msgid "Number of answers"
+msgstr "Número de respuestas"
+
+#: Users.edit.php
+msgid "Edit User"
+msgstr "Editar Usuario"
+
+#: Users.edit.php
+msgid "New Password"
+msgstr "Nueva Contraseña"
+
+#: Users.edit.php
+msgid "Repeat New Password"
+msgstr "Confirmar Contraseña"
+
+#: 
+msgid "Save User"
+msgstr "Guardar Cambios"
+
+#:
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#:
+msgid "You can't access to this user settings page"
+msgstr "No puedes acceder a la página de opciones de otro usuario"
+
+#:
+msgid "Vote +"
+msgstr "Votar +"
+
+#:
+msgid "Vote -"
+msgstr "Votar -"
+
+#: 
+msgid "Your vote has been saved."
+msgstr "Se ha guardado tu voto"
+
+#: 
+msgid "Your answer has been saved."
+msgstr "Se ha guardado tu respuesta"
+
+#: 
+msgid "You can't vote again this answer."
+msgstr "No puedes volver a votar la misma respuesta"
+
+#: 
+msgid "Are you sure?"
+msgstr "Estas seguro?"
+
+
+#: Layout.default.ctp:146
+msgid "Contact"
+msgstr "Contacto"
+
+#: Layout.default.ctp:148
+msgid "About"
+msgstr "Sobre Nosotros"
+
+#: Layout.default.ctp:150
+msgid "Problem here"
+msgstr "Reportar un problema"
+
+#: User.add.ctp:13
+msgid "Join Question World"
+msgstr "Únete a Question World"
+
+#: User.login.ctp:12
+msgid "Please enter your username and password"
+msgstr "Por favor, introduzca su nombre de usuario y contraseña"
+
+#: User.login.ctp:13
+msgid "name"
+msgstr "Nombre"
+
+#: User.login.ctp:13
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: User.login.ctp:14
+msgid "Password"
+msgstr "Contraseña"
+
+#: layout.default.ctp:29
+msgid "English"
+msgstr "Inglés"
+
+#: layout.default.ctp:29
+msgid "Spanish"
+msgstr "Español"
+
+#: layout.default.ctp:29
+msgid "Galician"
+msgstr "Gallego"
+
+#: User.login.ctp:18
+msgid "Login"
+msgstr "Entrar"
+
+#: User.login.ctp:29
+msgid "Sign up"
+msgstr "Registrarse"
+
+#: User.login.ctp:29
+msgid "Sign Up"
+msgstr "Registrarse"
+
+#: Preguntas.view.ctp:48
+msgid "Input a new answer"
+msgstr "Introduzca aquí su respuesta"
+
+#: Controller.UsersController.php:19
+msgid "Invalid username or password, try again"
+msgstr "Nombre de usuario o contraseña incorrecto, inténtelo de nuevo"
+
+#: Controller.UsersController.php:98
+msgid "The user has been saved"
+msgstr "Registro completado con exito!"
+
+#: Controller.UsersController.php:101
+msgid "The user could not be saved. Please, try again."
+msgstr "Registro incompletado. Por favor intentelo de nuevo"
+
+#: Controller.UsersController.php:145
+msgid "The changes have been saved"
+msgstr "Los cambios se han guardado con éxito"
+
+#: Controller.UsersController.php:148
+msgid "The changes could not be saved. Please, try again"
+msgstr "Los cambios no se han podido guardar, inténtelo de nuevo"
+
+#: Controller.UsersController.php:161
+msgid "Invalid user"
+msgstr "Usuario no válido"
+
+#: Controller.UsersController.php:164
+msgid "User deleted"
+msgstr "Usuario eliminado"
+
+#: Controller.UsersController.ctp:167
+msgid "User was not deleted"
+msgstr "El usuario no ha sido eliminado"
+
+#: View.Preguntas.index.ctp:51
+msgid "Edit"
+msgstr "Editar"
+
+#: View.Preguntas.index.ctp:57
+msgid "Delete"
+msgstr "Eliminar"
+
+#: View.Preguntas.add.ctp:3
+msgid "Add Question"
+msgstr "Añadir Pregunta"
+
+#: View.Preguntas.add.ctp:6
+msgid "Title"
+msgstr "Título"
+
+#: View.Preguntas.add.ctp:7
+msgid "Question"
+msgstr "Pregunta"
+
+#: View.Preguntas.add.ctp:8
+msgid "Save Question"
+msgstr "Guardar Pregunta"
+
+#: View.Preguntas.edit.ctp:8
+msgid "Edit Question"
+msgstr "Editar Pregunta"
+
+#: Controller.PreguntasController.php:40
+msgid "No questions found."
+msgstr "No se han encontrado preguntas en la búsqueda"
+
+#: Controller.PreguntasController.php:128
+msgid "Unable to add your question."
+msgstr "No se ha podido añadir esa pregunta"
+
+#: Controller.PreguntasController.php:133
+msgid "Invalid question"
+msgstr "Pregunta no valida"
+
+#: Controller.PreguntasController.php:123 146
+msgid "Your question has been saved."
+msgstr "Pregunta añadida con éxito"
+
+#: Controller.PreguntasController.php:149
+msgid "Unable to add your answer."
+msgstr "No se ha podido añadir su respuesta"
+
+#: Controller.PreguntasController.php:168
+msgid "Your question has been updated."
+msgstr "Pregunta modificada con éxito"
+
+#: Controller.PreguntasController.php:171
+msgid "Unable to update your question."
+msgstr "No se ha podido modificar tu pregunta"
+
+#: Controller.PreguntasController.php:186
+msgid "The question has been deleted."
+msgstr "La pregunta ha sido eliminada"
+
+#: Controller.PreguntasController.php:190
+msgid "The question could not be deleted."
+msgstr "No se ha podido eliminar tu pregunta"
